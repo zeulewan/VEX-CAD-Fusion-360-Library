@@ -1,5 +1,14 @@
 # VRC Fusion 360 Library
 
+## Contents
+
+- [Installation](#installation)
+- [FAQ](#faq)
+- [Changes](#changes)
+- [VEX CAD Discord](#vex-cad-discord)
+- [Tutorial Series](#tutorial-series)
+- [Contributors](#fusion-360-library-contributors)
+
 ---
 
 ## [Latest Release: 2.0.2](https://github.com/vindou/VEX-CAD-Fusion-360-Library/releases/tag/latest)
@@ -7,7 +16,16 @@
 This parts library features every VRC legal part currently available, and will continue to be updated as new parts get released. This library is the second iteration of the original Fusion 360 Library.
 
 ### Installation
-To install the parts library, download the [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.1.zip) and follow this [video tutorial](https://www.youtube.com/watch?v=DhSNF_7SHcA). 
+
+Use the [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import) script to import all parts at once:
+
+1. Download this library's [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.1.zip)
+2. Unzip the downloaded file
+3. Install [GitHubToFusion360](https://apps.autodesk.com/FUSION/en/Detail/Index?id=789800822168335025) from Autodesk App Store
+4. In Fusion 360, press `Shift+S` → run **GitHubToFusion360**
+5. Paste: `https://github.com/zeulewan/fusion-batch-import` → Install
+6. Run **FusionBatchImport** (`Shift+S`) and select the unzipped folder
+7. All parts import with folder structure preserved!
 
 ### FAQ 
 Click [here](https://github.com/vindou/VEX-CAD-Fusion-360-Library/wiki) to see frequently asked questions about the library.
@@ -45,3 +63,4 @@ Currently, no one is working on updating the library. If you would like to contr
 - Yuanyang - 1721G
 - [Chang](https://github.com/vindou) - 5327K, BLRS
 - [Ali](https://github.com/aliuahma) - 1353V, 80001B
+- [Zeul](https://github.com/zeulewan/) - [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import)
