@@ -19,7 +19,7 @@ This parts library features every VRC legal part currently available, and will c
 
 Follow instructions below to use the [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import) script to import all parts at once:
 
-1. Download this library's [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.1.zip)
+1. Download this library's [zip file](https://github.com/vindou/VEX-CAD-Fusion-360-Library/archive/refs/tags/v2.0.2.zip)
 2. Unzip the downloaded file
 3. Install [GitHubToFusion360](https://apps.autodesk.com/FUSION/en/Detail/Index?id=789800822168335025) from Autodesk App Store
 4. In Fusion 360, press `Shift+S` → run **GitHubToFusion360**
